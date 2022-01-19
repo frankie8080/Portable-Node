@@ -1,0 +1,17 @@
+{
+	"name": "Portable-Node",
+	"version": "1.0.5",
+	"description": "convert icns to ico",
+	"main": "./dist/index.js",
+	"scripts": {
+		"build": "tsc",
+		"example": "tsc && node ./example/index.js"
+	},
+	"author": "fengtianxi001",
+	"license": "ISC",
+	"homepage": "https://github.com/fengtianxi001",
+	"dependencies": {},
+	"devDependencies": {
+		"@types/node": "^17.0.8"
+	}
+}
